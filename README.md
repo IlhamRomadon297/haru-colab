@@ -6,7 +6,7 @@ Toolkit Google Colab untuk **muxing/extract MKV ala MKVToolNix** + **downloader 
 
 | File | Isi |
 |------|-----|
-| `muxing.ipynb` | Muxing & extract MKV (`haru-mux`, `haru-extract`) |
+| `mkvtoolnix.ipynb` | Muxing & extract MKV (`haru-mux`, `haru-extract`) |
 | `aio.ipynb` | Downloader: YouTube (`haru-ytdl`), LRC (`haru-lrc`), MangaDex (`haru-manga`) |
 
 Tanpa file pendukung — semua tool ter-embed di notebook dan terinstall otomatis sebagai command.
